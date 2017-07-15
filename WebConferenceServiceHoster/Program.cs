@@ -3,7 +3,7 @@ using System.ServiceModel;
 using System.ServiceModel.Description;
 using WebConferenceService;
 
-namespace WebCollaborativeConferenceServiceHoster
+namespace WebConferenceServiceHoster
 {
     class Program
     {
